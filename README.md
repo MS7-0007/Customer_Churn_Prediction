@@ -1,49 +1,45 @@
 # 📊 Customer Churn Prediction – AI SaaS Dashboard
 
-A **Machine Learning + Streamlit based SaaS-style web application** that predicts whether a customer will churn (leave a service) or stay.
+A Machine Learning powered web application that predicts whether a customer will churn (leave a service) or stay.
 
-This project helps businesses understand customer behavior and take proactive steps to improve retention using AI-powered predictions.
-
----
-
-# 🚀 Project Overview
-
-Customer churn is one of the most critical problems in subscription-based businesses.  
-This project uses **Machine Learning classification models** to analyze customer data and predict churn probability in real-time through a modern web dashboard.
-
-It also includes a **SaaS-style UI with login system, analytics dashboard, and AI-style interface.**
+This project demonstrates how AI can help businesses understand customer behavior and improve retention strategies using data-driven insights.
 
 ---
 
-# ✨ Key Features
+## 🚀 Project Overview
+
+Customer churn is one of the most important problems in subscription-based businesses.
+
+This project uses a classification-based Machine Learning model trained on customer data to predict churn probability in real-time through a modern Streamlit dashboard.
+
+The application is designed with a SaaS-style UI including login system, analytics dashboard, and interactive visualizations.
+
+---
+
+## ✨ Key Features
 
 - 📊 Data Cleaning & Preprocessing  
 - 🔍 Exploratory Data Analysis (EDA)  
 - 🧠 Machine Learning Model Training  
-- 📈 Real-time Churn Prediction System  
-- 🎨 Modern Glassmorphism UI (SaaS Style)  
+- 📈 Real-time Churn Prediction  
+- 🎨 Modern SaaS-style UI (Glassmorphism Design)  
 - 🔐 Login Authentication System  
 - 📊 Interactive Dashboard (Streamlit)  
-- 💬 AI-style Chat Interface (UI simulation)  
-- ⚡ Animated & Responsive Web App  
+- ⚡ Visual Risk Analysis (Charts & Metrics)  
 
 ---
 
-# 🧠 Technologies Used
+## 🧠 Technologies Used
 
-### Programming Language
-- Python 🐍
-
-### Libraries
-- Pandas → Data Handling  
-- NumPy → Numerical Computation  
-- Matplotlib / Seaborn → Data Visualization  
-- Scikit-learn → Machine Learning Models  
-- Plotly → Interactive Charts  
-
-### Framework
-- Streamlit → Web App Development  
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+- Plotly  
+- Streamlit  
 
 ---
 
-# 📂 Project Structure
+👤 AUTHOR
+Meet Sharma
