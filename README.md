@@ -41,5 +41,43 @@ The application is designed with a SaaS-style UI including login system, analyti
 
 ---
 
+---
+
+Aur agar thoda aur startup/pro feel chahiye toh yeh wala version BEST hai:
+
+```md
+## Telvex AI Architecture
+
+```text
+┌─────────────────────────────┐
+│  Telecom Customer Dataset   │
+└─────────────┬───────────────┘
+              │
+              ▼
+┌─────────────────────────────┐
+│ Data Processing & Cleaning  │
+│ Pandas • NumPy              │
+└─────────────┬───────────────┘
+              │
+              ▼
+┌─────────────────────────────┐
+│ Churn Intelligence Engine   │
+│ Risk Scoring Logic          │
+│ Revenue Exposure Analysis   │
+└─────────────┬───────────────┘
+              │
+      ┌───────┴────────┐
+      ▼                ▼
+┌──────────────┐  ┌────────────────┐
+│ Geo Heatmap  │  │ Risk Dashboard │
+└──────┬───────┘  └────────┬───────┘
+       │                   │
+       └────────┬──────────┘
+                ▼
+┌─────────────────────────────┐
+│ Telvex Streamlit Interface  │
+│ Interactive SaaS Dashboard  │
+└─────────────────────────────┘
+
 👤 AUTHOR
 Meet Sharma
