@@ -95,6 +95,15 @@ pip install -r requirements.txt
 ```
 
 >
+## 📸 Screenshots
+
+<div align="center">
+  <img src="images/img1.png" width="48%"/>
+  <img src="images/img2.png" width="48%"/>
+  <br><br>
+  <img src="images/img3.png" width="48%"/>
+  <img src="images/img4.png" width="48%"/>
+</div>
 
 
 
