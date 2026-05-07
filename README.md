@@ -76,5 +76,25 @@ The application is designed with a SaaS-style UI including login system, analyti
 │ Interactive SaaS Dashboard  │
 └─────────────────────────────┘
 
+## Requirements
+
+Before running Telvex locally, install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Core Dependencies
+
+| Library | Purpose |
+|---|---|
+| Streamlit | Interactive SaaS dashboard |
+| Pandas | Data processing and analysis |
+| NumPy | Numerical computations |
+| Plotly | Interactive visualizations |
+```
+
+
+
 👤 AUTHOR
 Meet Sharma
