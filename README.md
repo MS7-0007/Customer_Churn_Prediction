@@ -43,9 +43,6 @@ The application is designed with a SaaS-style UI including login system, analyti
 
 ---
 
-Aur agar thoda aur startup/pro feel chahiye toh yeh wala version BEST hai:
-
-```md
 ## Telvex AI Architecture
 
 ```text
