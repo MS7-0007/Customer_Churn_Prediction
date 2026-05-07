@@ -94,6 +94,15 @@ pip install -r requirements.txt
 | Plotly | Interactive visualizations |
 ```
 
+<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/fac43361-1734-4646-98c0-2aecb2d0a0b4" />
+<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/31b1e562-8ae7-4fda-862e-4b7e99a5ca4e" />
+<img width="1907" height="903" alt="image" src="https://github.com/user-attachments/assets/2fca504c-209f-4798-a3cb-8e98c524b2c0" />
+<img width="1903" height="902" alt="image" src="https://github.com/user-attachments/assets/5d0618c1-fb78-4b1a-841c-2c01f2a14c11" />
+
+
+
+
+
 
 
 👤 AUTHOR
